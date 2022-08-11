@@ -46,7 +46,7 @@ public class SpringBootReactorApplication implements CommandLineRunner {
 		// ejemploDelayElements();
 		// ejemploIntervalInfinito();
 		//ejemploIntervalDesdeCreate();
-		ejemploContraPresion();
+		//ejemploContraPresion();
 
 	}
 
